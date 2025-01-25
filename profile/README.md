@@ -12,9 +12,6 @@
 </div> 
 
 ## 📝 소개
-백엔드 깃 레파지토리의 README.md를 빠르게 작성하기 위해 만든 템플릿입니다.
-
-다음과 같은 내용을 작성할 수 있습니다.
 - 프로젝트 소개
 - 프로젝트 화면 구성 또는 프로토 타입
 - 프로젝트 API 설계
@@ -22,8 +19,6 @@
 - 프로젝트 아키텍쳐
 - 기술적 이슈와 해결 과정
 - 프로젝트 팀원
-
-필요한 기술 스택에 대한 logo는 [skills 폴더](/skills/)에서 다운로드 받을 수 있습니다.
 
 <br />
 
@@ -81,9 +76,9 @@
 <br />
 
 ## 🤔 기술적 이슈와 해결 과정
-- Stream 써야할까?
+- webSocket(STOMP) 실시간 렌더링
     - [Stream API에 대하여](https://velog.io/@yewo2nn16/Java-Stream-API)
-- Gmail STMP 이용하여 이메일 전송하기
+- redux-toolkit 전역상태 관리
     - [gmail 보내기](https://velog.io/@yewo2nn16/Email-이메일-전송하기with-첨부파일)
 - AWS EC2에 배포하기
     - [서버 배포하기-1](https://velog.io/@yewo2nn16/SpringBoot-서버-배포)
@@ -96,4 +91,4 @@
 |Backend|Frontend|
 |:---:|:---:|
 | ![](https://github.com/yewon-Noh.png?size=120) | ![](https://github.com/SeongHo-C.png?size=120) |
-|[노예원](https://github.com/yewon-Noh)|[이성호](https://github.com/SeongHo-C)|
+|[서정모](https://github.com/yewon-Noh)|[이찬민](https://github.com/SeongHo-C)|
