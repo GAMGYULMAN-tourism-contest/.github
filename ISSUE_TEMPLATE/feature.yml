@@ -5,9 +5,9 @@ labels: ["feature"]
 
 body:
   - type: dropdown
-    id: 
+    id: select-attribute
     attributes:
-      label: 
+      label: "기능 종류"
       description: "어떤 기능을 추가하시나요?"
       options:
         - "기타"
